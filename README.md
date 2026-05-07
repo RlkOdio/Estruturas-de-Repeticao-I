@@ -2,7 +2,7 @@
 
 Este repositório contém dois scripts práticos em Python desenvolvidos para resolver problemas comuns em ambientes de TI: validação de políticas de acesso e monitoramento de ativos de rede/servidores.
 
-## 🚀 Scripts Inclusos
+## Scripts Inclusos
 
 ### 1. Validador de Complexidade de Senha
 Um script focado em segurança que analisa strings para garantir que as políticas de senhas fortes sejam cumpridas antes de serem aceitas por um sistema.
@@ -25,12 +25,12 @@ Uma simulação de um serviço que "escuta" sensores de hardware (via entrada ma
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
 * **Bibliotecas:** Nenhuma (Código 100% nativo/Built-in)
 
-## 📖 Como Executar
+## Como Executar
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
